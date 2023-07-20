@@ -15,4 +15,4 @@
 
 ### Commit convention
 
-[과목명] 챕터주제 → ex. `[OperatingSystem] Deadlock`
+[과목명] 챕터주제 → ex. `[OperatingSystem] Deadlock` 혹은 `[OS] Deadlock`
